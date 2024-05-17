@@ -44,7 +44,8 @@ nav ul li a {
 }
 
 .hero {
-    background: url('https://via.placeholder.com/1200x600') no-repeat center center/cover;
+    background: url('Logo.png') no-repeat center center, url('https://via.placeholder.com/1200x600') no-repeat center center;
+    background-size: 150px, cover;
     height: 400px;
     display: flex;
     justify-content: center;
