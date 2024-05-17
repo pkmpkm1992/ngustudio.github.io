@@ -22,7 +22,7 @@ header {
 }
 
 .logo {
-    height: 50px;
+    height: 100px;
 }
 
 nav ul {
@@ -59,7 +59,7 @@ nav ul li a {
 }
 
 .hero-logo {
-    height: 100px;
+    height: 300px;
 }
 
 .hero-message {
@@ -68,7 +68,7 @@ nav ul li a {
 
 .hero h1 {
     margin: 0;
-    font-size: 48px;
+    font-size: 70px;
 }
 
 .hero p {
