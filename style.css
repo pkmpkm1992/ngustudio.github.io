@@ -21,10 +21,6 @@ header {
     padding: 0 20px;
 }
 
-.logo {
-    height: 50px;
-}
-
 nav ul {
     list-style: none;
     padding: 0;
@@ -73,17 +69,6 @@ nav ul li a {
 
 .hero p {
     font-size: 24px;
-}
-
-.button {
-    background-color: #ff6600;
-    color: #fff;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-    display: inline-block;
-    margin-top: 10px;
 }
 
 .content {
