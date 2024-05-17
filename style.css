@@ -44,20 +44,26 @@ nav ul li a {
 }
 
 .hero {
-    background: url('Logo.png') no-repeat center center, url('https://via.placeholder.com/1200x600') no-repeat center center;
-    background-size: 150px, cover;
     height: 400px;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #fff;
     text-align: center;
+    background-color: #f4f4f4;
 }
 
 .hero-text {
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 20px;
-    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.hero-logo {
+    height: 100px;
+}
+
+.hero-message {
+    text-align: left;
 }
 
 .hero h1 {
